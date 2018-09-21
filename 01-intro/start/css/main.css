@@ -120,6 +120,11 @@ body {
     color: #F5876F;
 }
 
+#main {
+  position: relative;
+  background-color: #fff;
+}
+
 /* =Footer */
 .footer-container {
     text-align: center;
